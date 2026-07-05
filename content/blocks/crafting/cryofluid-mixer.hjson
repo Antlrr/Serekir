@@ -9,11 +9,14 @@ drawer: [
                 suffix: "-bottom"
             }
             {
-                type: DrawArcSmelt
-                flameColor: ffef99
-                flameRad: 0.5
-                circleSpace: 1.3
-                circleStroke: 1
+                type: DrawLiquidTile
+                drawLiquid: water
+                padding: 0.8
+            }
+            {
+                type: DrawLiquidTile
+                drawLiquid: cryofluid
+                padding: 0.8
             }
             {
                 type: DrawDefault

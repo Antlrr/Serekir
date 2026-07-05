@@ -10,7 +10,7 @@ drawer: [
             }
             {
                 type: DrawArcSmelt
-                flameColor: ffef99
+                flameColor: ffc099
                 flameRad: 0.5
                 circleSpace: 1.3
                 circleStroke: 1
