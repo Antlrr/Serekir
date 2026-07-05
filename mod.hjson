@@ -1,10 +1,10 @@
-displayName: "Simple Expansion"
-name: "simple-expansion"
+displayName: "Serekir - Texture Pack"
+name: "serekir"
 
 author: "Antlrr"
-subtitle: "A little bit more"
+subtitle: ""
 description: '''
-a mod that adds a [accent]small [white]and [sky]simple [white]expansion to the vanilla campaign.
+a texture pack that attempts to mimic the erekir art style on serpulo blocks
 '''
 
 version: 0.1
