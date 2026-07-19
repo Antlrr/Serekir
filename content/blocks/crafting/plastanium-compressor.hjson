@@ -1,0 +1,19 @@
+squareSprite: false
+drawer: [
+    {
+        type: DrawMulti 
+        drawers: 
+        [
+            {
+                type: DrawPistons
+                sinMag: 3
+                sinScl: 6
+                x: 0
+                y: 0
+            }
+            {
+                type: DrawDefault
+            }
+        ]
+    }
+]
