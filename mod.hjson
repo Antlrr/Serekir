@@ -1,11 +1,14 @@
 displayName: "Antlrr Resprites"
 name: "antresprite"
 
-author: "Antlrr"
+author: "[#f2adfa[]]Antlrr[[]]"
 subtitle: ""
 description: '''
-A texture pack that's made by me (Antlrr). 
-Aims to not depart too far from vanilla!
+Pack that's made by me ([#f2adfa[]]Antlrr[[]]). 
+[accent[]]Aims to not stray too far from vanilla![[]]
+
+Current Progress:
+-[#8499fe[]]Production Blocks[[]]
 '''
 hidden: true
 version: 0.1
